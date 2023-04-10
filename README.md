@@ -9,4 +9,6 @@ I clean the data and write DAX statements to calculate the necessary measures an
 5. Payment method: electronic check
 6. Tenure
 
-Based on these factors, I give suitable key performance factors
+Based on these factors, I define key performance factors 
+
+The last part is to make slides and present
