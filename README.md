@@ -1,4 +1,4 @@
-# Telco-Customer Retiontion 
+# Telco-Customer Retention 
 Data Analysis Project - using Excel, Power BI
 Project objective: Analyze what factors affect customer churn at Telco Telecommunications Company. From there, offer solutions to help retain customers. 
 I clean the data and write DAX statements to calculate the necessary measures and visualize them on Power BI. After analyzing, I found the top 6 factors affecting customer abandonment, which are:
