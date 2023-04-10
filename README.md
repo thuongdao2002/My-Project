@@ -11,4 +11,4 @@ I clean the data and write DAX statements to calculate the necessary measures an
 
 Based on these factors, I define key performance factors 
 
-The last part is to make slides and present
+The last part is to make slides and present.
